@@ -1,3 +1,3 @@
 # helloWorld
 practice
-This is our first project together. Hello there.
+This is our first project together. Hello there people.
